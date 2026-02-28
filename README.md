@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3 align="left">🔴 🟡 🟢</h3>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F2F4F6&height=110&section=header&text=Python%20Developer&fontSize=38&fontColor=333D4B" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F2F4F6&height=120&section=header&text=Python%20Developer&fontSize=38&fontColor=333D4B" width="100%">
 </div>
 
 <br>
@@ -18,8 +18,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ian-me&show_icons=true&theme=flat&title_color=3182F6&text_color=4E5968&icon_color=3182F6&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-me&layout=compact&theme=flat&title_color=3182F6&text_color=4E5968&hide_border=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ian-me&show_icons=true&theme=bg_dot&title_color=3182F6&icon_color=3182F6&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-me&layout=compact&theme=bg_dot&title_color=3182F6&hide_border=true" width="42%">
 </div>
 
 <br>
@@ -28,8 +28,8 @@
 
 ### 💻 Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3182F6?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord.py-4E5968?style=flat&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
 <br>
@@ -42,7 +42,7 @@
 
 ### 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-me&theme=react-dark&bg_color=ffffff00&hide_border=true&color=3182F6" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-me&theme=github-light&color=3182F6&line=3182F6&point=333D4B&area=true&hide_border=true" width="100%">
 </p>
 
 <br>
