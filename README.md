@@ -1,3 +1,7 @@
+#  ian-me
+
+<br>
+
 <div align="center">
   <h3 align="left">🔴 🟡 🟢</h3>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=F2F4F6&height=110&section=header&text=Python%20Developer&fontSize=38&fontColor=333D4B" width="100%">
@@ -14,8 +18,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ian-me&show_icons=true&theme=transparent&title_color=333D4B&text_color=4E5968&icon_color=3182F6&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-me&layout=compact&theme=transparent&title_color=333D4B&text_color=4E5968&hide_border=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ian-me&show_icons=true&theme=flat&title_color=3182F6&text_color=4E5968&icon_color=3182F6&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-me&layout=compact&theme=flat&title_color=3182F6&text_color=4E5968&hide_border=true" width="42%">
 </div>
 
 <br>
@@ -38,7 +42,7 @@
 
 ### 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-me&theme=transparent&hide_border=true&color=333D4B&line=3182F6&point=333D4B" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-me&theme=react-dark&bg_color=ffffff00&hide_border=true&color=3182F6" width="100%">
 </p>
 
 <br>
